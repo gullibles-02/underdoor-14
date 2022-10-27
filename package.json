@@ -1,13 +1,10 @@
 {
-  "name": "ฮานอยสตาร์ย้อนหลัง สรุปว่าอะไร - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "eQQjH5brCeTiujyBbBncPsLIetoRfqdPYrsxLMndlKnuaFUUIS",
   "theme": "syntax",
   "version": "1.0.12",
   "description": "ฮานอยสตาร์ย้อนหลัง ทางระบบจะทำการปิดรับการเดิมพันเวลา 1555 เว้นแต่ ฮานอยสตาร์ย้อนหลัง ที่ Thailotto เว็บหวยออนไลน์ อันดับหนึ่ง น. (ตามเวลาของประเทศไทย)ระบบ",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": [
-    "ฮานอยสตาร์ย้อนหลัง",
-    "ฮานอยสตาร์ย้อนหลัง Thailotto"
-  ],
+  "keywords": ["ฮานอยสตาร์ย้อนหลัง","ฮานอยสตาร์ย้อนหลัง Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
