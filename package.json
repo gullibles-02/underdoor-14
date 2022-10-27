@@ -1,10 +1,13 @@
 {
-  "name": "lNidSymWGPyHncSG98v76JUXMONBScnIrGX8BNgVZ5tHMll1Y9",
+  "name": "วิธีเล่นหวยดี เล่นยังไง - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "วิธีเล่นหวยดี หวยไทยรัฐ แม้น วิธีเล่นหวยดี Huaydee หวยดี หวยออนไลน์ มีหวยทุกชนิด เป็นชุดเลขเด่นผลงานดีเข้ามาแล้วหลายงวด เช่นเดียวกันกับ หวยทร 1362 งวดที่แล",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": ["วิธีเล่นหวยดี","วิธีเล่นหวยดี Huaydee"],
+  "keywords": [
+    "วิธีเล่นหวยดี",
+    "วิธีเล่นหวยดี Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
