@@ -1,10 +1,22 @@
 {
-  "name": "fKUCLBl2rAZ0gDp9EYmG56e6ZwlLExV12czGKbd1ur2Wbe3p3W",
+  "name": "ตรวจหวย 16 ก ค 65 สรุปว่าอะไร - เว็บใหม่ lotto 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "ตรวจหวย 16 ก ค 65 สำหรับสถิติผลหวยฮานอยของเดือนนี้ อย่างไรก็ตาม ตรวจหวย 16 ก ค 65 ที่ Lotto เว็บหวยออนไลน์ อันดับหนึ่ง สมาชิกสามารถนำเลขที่เคยออกมาแล้ว ไปว",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": ["ตรวจหวย 16 ก ค 65","ตรวจหวย","16","ก","ค","65","ตรวจหวย Lotto","16 Lotto","ก Lotto","ค Lotto","65 Lotto"],
+  "keywords": [
+    "ตรวจหวย 16 ก ค 65",
+    "ตรวจหวย",
+    "16",
+    "ก",
+    "ค",
+    "65",
+    "ตรวจหวย Lotto",
+    "16 Lotto",
+    "ก Lotto",
+    "ค Lotto",
+    "65 Lotto"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
