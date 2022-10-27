@@ -1,10 +1,13 @@
 {
-  "name": "GZp22bQYubAeL9oL3IjYEXmvB82dp39Y3A6yM3HfrP2l0ZC3iD",
+  "name": "หุ้นเยอรมันดูยังไง แตกต่างกันอย่างไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.39",
   "description": "หุ้นเยอรมันดูยังไง สำหรับคน ต่อ หุ้นเยอรมันดูยังไง Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด ที่คิดจะลงทุนใน หวยหุ้น หรือหวยหุ้นรัสเซีย ก่อนอื่นต้องขอบอกว",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": ["หุ้นเยอรมันดูยังไง","หุ้นเยอรมันดูยังไง Ltobet"],
+  "keywords": [
+    "หุ้นเยอรมันดูยังไง",
+    "หุ้นเยอรมันดูยังไง Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
