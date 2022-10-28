@@ -1,16 +1,10 @@
 {
-  "name": "หวยหุ้นไต้หวัน 4d ดูที่ไหน - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "W0BM96acNa1vPGna6Njqzr6OcoAsVZfjC3ozR5p8p5OA63YduH",
   "theme": "syntax",
   "version": "1.0.68",
   "description": "หวยหุ้นไต้หวัน 4d Bein ได้แก่ หวยหุ้นไต้หวัน 4d Huay หวย หวยออนไลน์ มีหวยทุกชนิด Sports1 Bein Sports 1 Hd ดูบอลสด ช่องดูบอลสด ดูบอลสดฟรี ช่องดูบอลสดฟรี ดูบ",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": [
-    "หวยหุ้นไต้หวัน 4D",
-    "หวยหุ้นไต้หวัน",
-    "4D",
-    "หวยหุ้นไต้หวัน Huay",
-    "4D Huay"
-  ],
+  "keywords": ["หวยหุ้นไต้หวัน 4D","หวยหุ้นไต้หวัน","4D","หวยหุ้นไต้หวัน Huay","4D Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
