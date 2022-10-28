@@ -1,13 +1,10 @@
 {
-  "name": "หวยหุ้นจีน เลือกยังไง - เว็บใหม่ huay24 2023 ล่าสุด",
+  "name": "bNe0GaCCHx5WljnzD8fthF0K8PMttBGpmToyABfNa5lNMTB3Qg",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "หวยหุ้นจีน ทีมงานเว็บไซต์ หวยหุ้นจีน ดั่ง หวยหุ้นจีน Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด หวยดี88 ได้รวบรวม เลขเด็ด 5 สำนักดัง ที่มีชื่อเสียงในไทย ซึ่งทางท",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": [
-    "หวยหุ้นจีน",
-    "หวยหุ้นจีน Huay24"
-  ],
+  "keywords": ["หวยหุ้นจีน","หวยหุ้นจีน Huay24"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
