@@ -1,10 +1,24 @@
 {
-  "name": "nJrSJ1Sc4mDp4zR1cMtTmj4eEkM49ZihG99rHqigHh3phVe3Cy",
+  "name": "หุ้น ฮั่ ง เส็ง vip วันนี้ ที่ไหน - เว็บใหม่ huay24 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.52",
   "description": "หุ้น ฮั่ ง เส็ง VIP วันนี้ สำหรับท่านใดที่ตรวจผลสลากกินแบ่งรัฐบาลแล้ว ทั้งนี้ หุ้น ฮั่ ง เส็ง VIP วันนี้ Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด ถ้าถูกรางวัลใ",
   "repository": "https://github.com/gullibles-02/underdoor-14",
-  "keywords": ["หุ้น ฮั่ ง เส็ง VIP วันนี้","หุ้น","ฮั่","ง","เส็ง","VIP","วันนี้","หุ้น Huay24","ฮั่ Huay24","ง Huay24","เส็ง Huay24","VIP Huay24","วันนี้ Huay24"],
+  "keywords": [
+    "หุ้น ฮั่ ง เส็ง VIP วันนี้",
+    "หุ้น",
+    "ฮั่",
+    "ง",
+    "เส็ง",
+    "VIP",
+    "วันนี้",
+    "หุ้น Huay24",
+    "ฮั่ Huay24",
+    "ง Huay24",
+    "เส็ง Huay24",
+    "VIP Huay24",
+    "วันนี้ Huay24"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
